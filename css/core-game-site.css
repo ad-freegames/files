@@ -21,8 +21,8 @@ html, body {overflow: hidden;
 	align-items: center;
 	justify-content: center;
     width: 100%;
-    height: 100%;}
-{background-image: url(https://d1tfxadjek1cj6.cloudfront.net/wallpapers/d6/52/18ffcd3618468910cea0aee397f5b34249210564823b035e74e0905501e3); background-repeat: no-repeat; background-position: center; background-size: cover; background-attachment: fixed; text-align: center;}
+    height: 100%;
+background-image: url(https://d1tfxadjek1cj6.cloudfront.net/wallpapers/d6/52/18ffcd3618468910cea0aee397f5b34249210564823b035e74e0905501e3); background-repeat: no-repeat; background-position: center; background-size: cover; background-attachment: fixed; text-align: center;}
 
 #page-column {
   color: #bbbbbb;
