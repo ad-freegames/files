@@ -11,7 +11,7 @@ html, body {
 #rightad {
   position:fixed;
   z-index: 50;
-  right: 5px;
+  right: 0;
   top: 75px;
   top: max(75px, calc((100vh - 600px)/2));
   height: 600px;
@@ -20,7 +20,7 @@ html, body {
 #leftad {
   position:fixed;
   z-index: 50;
-  left: 5px;
+  left: 0;
   top: 75px;
   top: max(75px, calc((100vh - 600px)/2));
   height: 600px;
