@@ -1,5 +1,5 @@
 
-var cont="<a href='" +urls[randomgame]+ "'><img src='" + images[randomgame] + "'border-radius: 1%; width=160 height=160></a>"
+var cont="<a href='" +urls[randomgame]+ "'><img src='" + images[randomgame] + "'border-radius: 10; width=160 height=160></a>"
 document.write(cont)
 /*
      FILE ARCHIVED ON 17:49:15 May 20, 2018 AND RETRIEVED FROM THE
