@@ -707,7 +707,7 @@ urls[232]="https://coolgames24h.blogspot.com/2023/02/spin-escape.html"
 images[232]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaTbXHvaNVaGiAiA3LjDnb8uLDMurqUWMyk9e0ymJvISCXoK0FBbbbTHMIuwTpgJwnbCsjsU7tPI0VD7YRin98R0ZMZbG7NaEf3_J6DCdO_ERoo2J81gN3b8xYtfTI-UYLiWGNSMw9uQZKjEWLU5JgijCG0a7-powzCUQ8FT6Vz_9dT9yTsC2IWpc0/w233-h233-c/spin-escape.png"
 
 urls[233]="https://coolgames24h.blogspot.com/2023/02/shooters-3d.html"
-images[133]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfLXx2ekVm5TvuEb8qC1vvxZjTpayTvAxqUNAgnfTTopVwCsaXtQTYZEMOUBUEgUCe6vKHksN0ucUKI1IpwYu50s5zNnfYoMjNLI3MGvJSKxwSLrcekLHfZs_TKa1qpHRDvE2f31_j66llx_SuaqGXEsHlRUOHsQSqLD4yaIOPSlJGf1anNQPv-uP/w233-h233-c/shooters-3d.png"
+images[233]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfLXx2ekVm5TvuEb8qC1vvxZjTpayTvAxqUNAgnfTTopVwCsaXtQTYZEMOUBUEgUCe6vKHksN0ucUKI1IpwYu50s5zNnfYoMjNLI3MGvJSKxwSLrcekLHfZs_TKa1qpHRDvE2f31_j66llx_SuaqGXEsHlRUOHsQSqLD4yaIOPSlJGf1anNQPv-uP/w233-h233-c/shooters-3d.png"
 
 urls[234]="https://coolgames24h.blogspot.com/2023/02/hot-dog-zombies.html"
 images[234]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4dnV5A2str0VWAg6_hvX9995KtrKOK9qy5Mog6q4v62ou7Cb5itw8h3ZLGk0hcwckAXaN9znbPJTu6PJEhm4VsxZeV03kfKvAnHyIWoM4z4QHcCelPpRA3EcC1RbV-3acvXHZxj2piNV0ArXQqmhRovbpcyRZ7UdeGE5eoi0r8_gGMjXU5qnAz_Q2/w233-h233-c/hot-dog-zombies.jpg"
