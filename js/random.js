@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=248
+var totallinks=247
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -464,7 +464,7 @@ urls[151]="https://coolgames24h.blogspot.com/2023/01/sniper-vs-dinosaurs.html"
 images[151]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxxwt6tg2b4215j7rYgbajAORWmpkKOeOyxyzCg821y3vV9rzZTnievPNC5XGJElZJBeyC0ypww75BqK1kcgl_j9I37hvN2AdRHgZmelVx3OA4qODS-zixfa6tKa8kiKbVpAMlKrsLtN6lIqT87lgvBjaallvU6559CWdZEW4deNJ2GahFj6DIQNbI/w233-h233-c/sniper-vs-dinosaurs.jpeg"
 
 urls[152]="https://coolgames24h.blogspot.com/2023/01/space-racing-3d-void.html"
-images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9OvAwuvTWbn3NUPiZzlCyBz-dnBRkkaziZEazJX8qUhj_HdRJe-7gS7yNXfgmONSxo_QXKDhrLdW_Q17MDPRqc2mtagtWI9N9B62YK9U6t1Rhzu7jkEdx-jDA-8XU6LSJL3bcKLN2iGEnjCDa5fFDyoApx8JPCfI-1-id9DqnfB9Q04AxdcEhcoXT/w233-h233-c/space-racing-3d-void.jpg"
+images[152]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9OvAwuvTWbn3NUPiZzlCyBz-dnBRkkaziZEazJX8qUhj_HdRJe-7gS7yNXfgmONSxo_QXKDhrLdW_Q17MDPRqc2mtagtWI9N9B62YK9U6t1Rhzu7jkEdx-jDA-8XU6LSJL3bcKLN2iGEnjCDa5fFDyoApx8JPCfI-1-id9DqnfB9Q04AxdcEhcoXT/w233-h233-c/space-racing-3d-void.jpg"
 
 urls[153]="https://coolgames24h.blogspot.com/2023/01/onet-master.html"
 images[153]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Z3MTde9tvc3wfY0t5cqC_G_KmXBvOhviwjj8SYXbRD_GXYP_vF4lIVaOGMI30bo4FRpMXGoruwZgKhBXl2HfR_fYLLj6phbP26_giUgWte-qNr7WYylsInZSqvS_3xn34tdADCnBXoRosonvJCalOb5_kR2n2FMhyEc6_0no7r5VIURfNkdvK4FT/w233-h233-c/onet-master.png"
@@ -578,7 +578,10 @@ urls[189]="https://coolgames24h.blogspot.com/2023/01/apple-knight-mini-dungeons.
 images[189]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1sR6Fj460oAbE4fTggc5bt2wubdIMWm5ISaWjcWeE4wys-8iK5UoUIuBj402m-5E8PA4lwTLM-5zn02sawpLgsu_QWkl9jOnahnZuVnpTLn0Piuf68eU7B_4S0pxCJb8T4jq3iDzdZ_iGQPJWdM6stEHGk2N2zSi4d4qlnW_8kSQR8Fw75D3qv3D9/w233-h233-c/apple-knight-mini-dungeons.png"
 
 urls[190]="https://coolgames24h.blogspot.com/2023/01/ghost-walker.html"
-images[191]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiq7_XFe5ofTbd4dUVOpv8LMXnri-cQZr3EzHE6n2sgKTTBAtrEHT8SJqRJme23navk8v2-oR7lMstQ17Nsmw9QSWarhqb-GyobUFhd3qtLb2BNM9PNMfS8cIaevGctNsy0DGG_zK6zJHElMz4p0J2gcnE4o80JtlF9T6wrqyWM6XtKIhXKBRQMNXj/w233-h233-c/ghost-walker.jpeg"
+images[190]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiq7_XFe5ofTbd4dUVOpv8LMXnri-cQZr3EzHE6n2sgKTTBAtrEHT8SJqRJme23navk8v2-oR7lMstQ17Nsmw9QSWarhqb-GyobUFhd3qtLb2BNM9PNMfS8cIaevGctNsy0DGG_zK6zJHElMz4p0J2gcnE4o80JtlF9T6wrqyWM6XtKIhXKBRQMNXj/w233-h233-c/ghost-walker.jpeg"
+
+urls[191]="https://coolgames24h.blogspot.com/2023/02/string-theory-2-remastered.html"
+images[191]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBXF2XhWYSxWLETMHYkMOTQNsmgCIv9A772M5ZCx1Y7tXI1Uv8xqWB86bXatfhmxAnntGBQi1ksnpms2DaXyiVnVLwwsOGNmG0pRX7Du7Z7Ln1y8BhSsGMrrVp7aSHJZGOsH9ZSsWi-kbvY5QdKAafQwLH0A80EZrcFUAsFR7wdjYjeURR1vAx8CAl/w233-h233-c/string-theory-2-remastered.png"
 
 urls[192]="https://coolgames24h.blogspot.com/2023/01/subway-surfers-world-tour-venice.html"
 images[192]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj52vzWGieEph_J54ec-QVyND-hwnlZAY5wh4Rsf4PcXTGr9_wkXUca8N8S8XBHJgLsRZFRTZiG_ee-76il83jWxL1Mj5DWJf7s0qbUnLVM6bMUePmmpPg1cXJx5LeDwJDwvT3IfMx4ZBAsDdoNTfTiBNTfp1h1GyUI8Z7E5ZHy07q2UXMkH6LA3tKU/w233-h233-c/venice.png"
@@ -750,9 +753,6 @@ images[247]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFHmiIPd
 
 urls[247]="https://coolgames24h.blogspot.com/2023/02/hospital-stories-doctor-rugby.html"
 images[247]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixhLzummyyuu2LqEcnOE9q2aUxaTJpuW4MRkdriSrpCIiYvMjM_5xdDSJfYNInPQY8DAF3om5wdK8Sz7Lkb_6ZC1Z7D2hE6elXABLh0MWLH5PRuF-T284j7IwmjAGdrDfC9-qv7t6s6A92W4OBvyexency4IPJIRC5qSPOyH8z0l-Ebl_p1aCZhzwP/w233-h233-c/hospital-stories-doctor-rugby.png"
-
-urls[248]="https://coolgames24h.blogspot.com/2023/02/string-theory-2-remastered.html"
-images[248]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBXF2XhWYSxWLETMHYkMOTQNsmgCIv9A772M5ZCx1Y7tXI1Uv8xqWB86bXatfhmxAnntGBQi1ksnpms2DaXyiVnVLwwsOGNmG0pRX7Du7Z7Ln1y8BhSsGMrrVp7aSHJZGOsH9ZSsWi-kbvY5QdKAafQwLH0A80EZrcFUAsFR7wdjYjeURR1vAx8CAl/w233-h233-c/string-theory-2-remastered.png"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
