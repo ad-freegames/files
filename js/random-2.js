@@ -259,110 +259,110 @@ images[82]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnCqJ_Q8x
 urls[83]="https://coolgames24h.blogspot.com/2023/01/zen-blocks.html"
 images[83]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC31reOaSc_R0rEznqdEvbZh0ESp76OZCa5qvnQMdk3US-v24J61Z9pPOKVj6dh0qWMTkM7SlYTnnF4lwCkAznQykXahAwgkoNxGZWxR6LH71Q607H3ZgKfhg39mKyBqF8c8ugysmFI44ORpgwBk5NAMMkmVQbZabhE00PzjsNfS_MtBsImesVqDLh/w300-h250-c/zen-blocks.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/slashz.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUWKW22Qhhzfw87Zsah8Koh9lfmIkqFiZs5SETWB1DbTaDPBXCVeRZEugwRgJAvDnGe3nHOMMTniWjkpxL9txIsxRK7mH9pOcWvl_bXfxe3hjOEtPeIG4i9ixzNnxUwvq2JEhzuwQnHje5PtGzYHpAoOTClJtfDVWfjir2hvXRjchL-iNVNfstvbMH/w300-h250-c/slashz.jpeg"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/subway-surfers-world-tour-iceland.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCYhKd9kyg8LUmNpUt3MiZhNU1GLyVGZBsjgv3vRTHlfAh_UGWMeYvl4teoFM3hgorlubUsdh7B5jncAirs1TesNLmE29NkX2JycmC5S80qjqHgXsTl-XiACnCgVj_rO0dAxvgxSYmPWmYmcJh5TG0G6wHMcOnR7ePH8KQP7cUJJgUHd8uOTglPgTu/w300-h250-c/iceland.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/who-is.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiARP6s4oPZzFKbq5-e75Y4YrUTcPg_I5ndO1epG2Ka1rw3n4EeBkZhkfBdj64eaEqPHQ1trxNOshng42YklxWlh47WH-miV_Ixjzu78BzHFpYPk53RwoUZrttPp7r4j8FAEZ06eK7WDGmvW0xZFR9YD_en4nJulOWtkM3KBrwEFuSV7WkH-aTTadgu/w300-h250-c/who-is.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/circloo.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtJeq9ltjt_ksyZ5Tl6PcfoV0PONi445kCdnuYFqI_yXculb4upA18LoNkRQaQS4b1ycNnwzzMSA2rkL2QLzpwYOCSUY3FVTzB2l3EejRhNVi84voAPzL-KABfMb23o2B9jx7AaS67c6jDLRRjYTBtuf5PTWFfoeUmVDIBxyN2c9_fEm4yhLwezFTl/w300-h250-c/circloo.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/sushi-party.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg66iP99aMc72hEj170Y2hsDCtdytNSH1_Yw8bdFtX_jvj5FqjAi2zwzp_PVMm7MC0CV1NU0TrGdZ8fJ1v3N45xY3xOHg4kp3vWYP40powJrwcTl8ISYVkCbQWSMxbIox_ZvC96aU-kRw7FSGxjlfIs4aXbH2DyCOZN0BZ_3cyQCRNb7nz5CqeJR6f2/w300-h250-c/sushi-party.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/moving-truck.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAJ-PZV8ixFSsbR7NHM9uwNxYV-f6AlRJdIjMnQA8zkF2LSOAncXMzPBptk21MHKzGkmTGI0QbOjj7R3bGGGRl3PQ_vh_uBVgjbKKXKNurIOrVeFgpXFGrig0sIFcEIB4xP1zET1vXRXBdT3VsOMSL1334sBnazihaGpNRwF4XNqjUdqAspGGsrg-7/w300-h250-c/moving-truck.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/circloo-2.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDBQS4CxxGZBmgubzgxFAxKtD7e21USPBK-ZoDnbqmL49HZlwJdiSgPLluBKqW0XnEaUvCSiNY6xXxlnbuXKs6HFeWfPKALw1ASQEIzzftdjY9_YH7vTigihrPl1kU5QV-pJF8V2_WzeVW_IDRFoU4DejUq5HmaxeHUWt_XCzQ9r1Xxp0bsD_l66MV/w300-h250-c/circloo-2.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/flowz.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-N0iHVSqop-805Qp0FlLjWGgrl01ztJrmE2b8-rdM2Eaqcf0peDAaQRj54uOteO6xl4zDJ6CqWoDu-Kg7JDiWW6AJxmscQAq96AffFQs18pQ2KDO1ODkH3e8MAOwO8Zr2p_7asQDT72LwYEWXhReLSVTVS555bI-nb0fjkVLKtpEVzFczBHZtFbRe/w300-h250-c/flowz.jpeg"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/kiwi-clicker.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE2SqqLqKf7Mwe15CP7ID97RDU1dILLmeIQzaOtkoyESbAxas63uYf8cHbVc-rUHjaBbkJ46CViA1S0_jp09g7rul4VIEQczOSLXDZzMcDhVo6iToD32pdfhiblBHnWLjifK8BQVk2_FvD2szRj1d-p9Z4HlGeu6gTsj6s8ZgBZAu3UPET342n_qQ3/w300-h250-c/kiwi-clicker.jpeg"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/pizzapunk.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9p8zKThqxDQF9w-06ZM7LobkE_vSEqDv4Mb4rfZQCGSAOAD-5oZcNcbl2QfF0VVCgqbSSX_wXM_X6EUzVLaO3eesR9aiyoJoCZwHuszHBAIU62eyNDiGkPSwMC6Edmd06G5oJDOw1rIP4SGxQiE9vstmdSqvi9owcREZLfA7ehCFtSxRR3t-5hjU/w300-h250-c/pizzapunk.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/cars-thief.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOpbpsNIvMM-XgL5K6mHJxoCtbmA-VoDr5hDp3EdC-RVfQEC0zVdQkj6mXqYABAV59inp8AKzqerLDf1YvdGdcARY7dXKrmEgdYTQr_6s0OLF5jYMa8gWSL4gB_1VzoNT0HBMl_J03bEvcjc2q3mXJVt3T1IZuIyHT_ziVRmdx79llJI4R-hKccrg/w300-h250-c/cars-thief.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/idle-startup-tycoon.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuB1PHXYXtfG2skg0ukpZ89FSRy1RLE42d_sdSoGyv6aV6ku9okwx26_TlX2WqyEwzE1i3vsR2-GOBzfw63QL2EXr-xtXfDmpWRQwSv0AvZy1q4vYmPQvt-XXUtH1GCP3IAy6eVJ484ZIKWqMPXrBp4rtdvmiua48KseNExfH-mpgPb5tok_9j7ifF/w300-h250-c/idle-startup-tycoon.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/idle-gang.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiQUrdqFdiT6_DArS4X1ablmX8x8pHPfw9Yx4wNa3UBxP9nl7-tX5yzwKewwvynyq1WXUVf7s6tJoiC9xQ9AycOHirhHzfy1VkwAaz59ZJASOaBWxawJ-SYGgHl4tvEKllWPxm3n3uBnJPJ8OdFjMfPZ80bFmYP82QaDYzTLtHregxC2zwz9xreMm/w300-h250-c/idle-gang.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/crazy-party.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSDy0_xhC5Pt-CgXSOIZ1F83kbuQNClWk6ikcdycq3Jov2MZYlPYfTx2pmigWlkmYUZOAQH2PIBaK7lWddUbzdnlkIQfF874RgkzdaETm0yAcEDqVGJrQXfoCB4C3RFEurV6gcxNRfsTmpzF9uxx7zJ5sg5k5KfSmzebOQbOlFQ2CXAbKvWBMcG1Wp/w300-h250-c/crazy-party.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/squish-machine.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJev8Wsu6zcSBSoOCXSB2NGMDybqY1aU5s9Cu3IFHd-a5rz6uqVM_wdzg8170BT_1IPT_3xbbmFl9Vb7GicS1xyXybTKpklhEQmp2B95JLJqoX73avoJ20XP1utOXDxGVvSZCT-WrgX5mbiHHUDZmTWVLeIsmFoShXq2J2NFbjcUWoUA4GtS_K86c2/w300-h250-c/squish-machine.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/beecoins-inc.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-9aHDQHITD4f9TbfN5NtAff5S9nE7lhX7qa4_CtdAXnPutylhP-qYAdlTtnHY3z4fjKsnCwNOU4oVRt8IUfX2KhJGk6yCk6URUe9__UVCAa82khA9ySlTlVMYXzWxwWkTl30IFdQ59ATKEtqWfBSAJU36u27K5D5PWKW-Mp80QhAW_hyjU3PdWEkp/w300-h250-c/beecoins-inc.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/apple-knight-fight.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaJlQg4LsyUNBZcden0TS0vONI-lp4T9sjF78xR4rq1crDq44mv_bHBo7MNAQlRhkcHpzzyWPJHquZxRyXEM3n_GSaEVjY1oq1vuQS7ha1biBFZlDyoo63HexFynqYFK3pnW_KmlJOYjmWEYjbwpItZ6eg9WxTiZwBvlNmDE8iBCdhJw_zBaSU2JW/w300-h250-c/apple-knight-fight.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/dudeball.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-BtlMyLDIYM4glImOPYwa7o-4Q2FvDhw6q9qp1A5gSWKBk8EMxhR35t3R4lNECtafwVQZNQzEA5p8uRBpzqBCkkCm3BAnKL6hddDgC0tdiTuCSGjXRpsneStOYKRvmQimhg3cJZQQgxysxWRgsnETsxpO-If7yrzCkJVij70PrChkOdfRB3SDKma/w300-h250-c/dudeball.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/get-on-top.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIj_ZTAJYSMpL_4ekrFUrTTt_tklvo-8G8NppBxBTbxPLntK9qZwjEfM2Af8vX7M3Wjz3BiCLhXJvXbSI4aseet7yIvIyvJomvvMJKcPIiuAQC25JnmrZCQJ_5_duwRNcygnE7PtMN3Zb2ftsy9m87_GdknZ75YpTbSQOdBqNit33aRrK6G_SWmhbT/w300-h250-c/get-on-top.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/minimissions.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJunJvtkm5vpzX3VLvWOy0QNJfT6RRdQcuoVMmR_pyRfRx8Usr5ee3VS-1kWcFXh6BrPI2Yb1TEsjOLzNLkCMxfhBmNzw0Fsncr7RUbOKB4FP3PLQKXoStH1Tyl57E0CHgjpbfMnRO1lpsOdJ6ECZaLmiRXB7JuzbGc9hYFogDqOCAPIFH3Gtfflh2/w300-h250-c/minimissions.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/squish-machine-2.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn06Dh_p2Uu41Wp6c9JYC_zwoHJAAhplmlD1bL_8oN0cmvCUsLOYL6dFnuXVY1a1S14PgJR6IJUmYD1Kgzot2DZVST8RMobR69z8kVX5V7fnIsqtwbkZx_GoKnQcEW34fuy3FwNr9QoP0RbNVoUS9s9vP3HJUZnD_KmQ9-Wn2x7S-z4huGZ-8Ybn_J/w300-h250-c/squish-machine-2.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/crab-and-fish.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaVlSw_1sHQg-H-ELd9FbB0d64UV87gs8bt_ZhOaiVeRDwFm42pTbywvUIdM8dgZppmZ0Ve5CT1XDwCEhQ4SVW5EA_zqPSXErnwjeNcPIgCWAExcHEcwSUi85YoES8oV3J7pKL1Ehavdw2AUVAzFh2jZA6S-rCR_c-TzyQlns9kRFZ1DW1uMeDkEg6/w300-h250-c/crab-and-fish.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/mad-car-racing.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1XrlvQ8u8wZPbIfE-kZbcZdBL0cvmU_i4enQy5oNBDbHw234PA0-VHwW0Zc8pDFfhx-16_4VgYW4Z8ruAX8XMJ8Od7Dr6JqsXZ7G9O8JiHN5XsM3E42Rs0O828MlWH7tmfugR7iEwLHGqVccgAye1NaEbovvJZBsnfXu0vrETIEvNHI3R7YadZgQ/w300-h250-c/mad-car-racing.jpg"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/one-escape.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiILWjOSrbqXE3Sj0Wupj0sY4_vN4TliV4IeBvXja1UW2RF3j65o1JMlNsFesLgErid8blJbx91emkqazw2i40uDox87CDKcvZbvOc2HFsB2lsI8fWB5GHViKY4cQewyqw94OZxYay-qwHuh_KwVrANCyXvG40yktCMKtBqU5HwumNK_Uzb9NpFQI4A/w300-h250-c/one-escape.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/foggy-fox.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcXDnSuD4dt0gYnGKuql6JxHwrymfjnbQxQ29pY-b-4sOcCmCPia_4agb2-NUY_9eGWoKG3tJOjF9z8mckawCtYFcQYPqCw1lS4KWuIuQwQIqMQX-hvZJ4c17K4vKPMCNl028Ck0cauWloS3wdZqO0XfVdO_X26bdkwEvfiPMt8-k4Je-ZocdiwPFm/w300-h250-c/foggy-fox.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/guess-what.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWT0e2u0Q5U3rPa8yQljENVfFdTvpz6-fPOrrGwEUmIIeGLJEX0V71rpi-s2_q699bXMx9dXd4o5Ao_Tt9o6WEZVrCSxwQ9t8ypqgzYcBI4OHiEdWd-WTkrnFyej7OOEt5vR1p231z8bAUPOXYMnSQgTl1Esj23u00GE6hlSh70E003ODRDMcMXVPA/w300-h250-c/guess-what.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/cartoon-mini-racing.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDNI52ciCOOlz6ptZt50bb31NFJEQaS7-eogS_RkZqnQzVGGR8NQUI2YdDWjRcSPJ93d1HsggpYCBActt1HGw2xsTSwboa1BjteTsPgR4TQALjqhCSLoIXhJW8oOxEum7l8XPANoNQ9WcNxlp6ugMhiFll1VKvd19muQ3Cgm8uH5BzEXOdOdTW_oE/w300-h250-c/cartoon-mini-racing.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/papercraft-wars.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixspqNwcvRRENYlSVoNSaP_L_coTYow6NuwnjVssvQMyrDMf4hgDjzIJeBkpC1caNjZ1lGgHYQIsa87EleWGZ7tJTrTdU75eyDZR0BPvXXdej7QCuec5ZqsteM25VoKSIkwUgc92iK6qctTGKGAqa_laonn6SL3fx8yqGFbL9CmaQvDdyG_x73xk6M/w300-h250-c/papercraft-wars.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/subway-surfers-world-tour-marrakesh.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8Uwm2sFTHUihayekN_OepYrgAjzyaDpebAw6IwsZp0estRQty8OieaeGSHMOpTpdENeNuKTEO0dSPZ1qqvuFpjJeY0JIb8CWlpoHbE_16gSSa9ksBshYAaBnv2M_OTcmHPS98A6B03j_r_PQpEkoHDTqMT4ndXqohWDSTm69WaKyzqYDcYn506so/w300-h250-c/marrakesh.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/tap-tricks.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHQwDFa0XMIQc3AGpAlqX8D-r_XBiIHCsIkvbDBU0S3_LodE55APGYJb61ebj7IPkMOo0-J4WUu112pkUO3fTA2B8edAotq1OirIbKB-BGSF-ZGhdHoINT7R0m6XIzw0Y-7lIoxUWmBO3WjmvI5dpxcIFUNfrKjUKU8ui7GlxZ_hVNRmMcNGgWC-X/w300-h250-c/tap-tricks.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/space-thing.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihQ_8S-3DaN1DvqgOjiq4RRVa9DGL_1YegI5D-i9BpVejp1r6bFJK8s4BHTQlgqiJvAFe54H3mKzozcnB31HSuxCzcmDCuAr-ovwgYqniKk39VQNxk2YGKWlkjwALf0BLBjrPNcvsq4a5c8cd6wad559aYR6mw_h5qEK-qkrpjRvlBNTTytaTavzEx/w300-h250-c/space-thing.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/dunkers.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOeuc1yF1MhxHmTqhF1eBUCPBO8aAMN0bsi4eFNp5lTOXBAnekSu44It4iB92XeMsggwuzcO1wyM-N2zQgrbVBFM49eeOe2gkkfNujO3xfkEYPdOQ5nf1pRVACPPh8LZcYen7v9IIMKDFUt-UCc7XB6-b08-b5L8qAZJZAmZAhNtAvkg0Q5bAUB-_/w300-h250-c/dunkers.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/mr-boomi.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAtYRXsE8T5qTDU1Hs2QMMuKThqjV8LRx6xmr9kFj0aS1vYKfQBfGqq6CJApJfYOGeLVTGf0j8fjENluvhBy8ZS8IRiaei0BLCrBIWM1Xazar0aoxDln4OE7P6i3j2wybVFiVPHpY5BZqAC3LHj5iz73kg3MHx3zoDS0qddLrkvG4p3G-BCDOHirhV/w300-h250-c/mr-boomi.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/battle-golf.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzqvKyLxa0oMb0v8slS5TCMFxpbndHfMlOUrfqV1K2R9LDvoFaAsdnMUSJ7aQCoSZcUJCipTvJDdPocOD1Etnt4l_uJoavzLQVuMYvbCaOrPwQMudIpC3T57cwnpXjK-RK6BKPJpXSnZ0yEg0vK7ojni8rrO7i1eKS0bgNUZv4Bno5rFvjC-IqTR4_/w300-h250-c/battle-golf.png"
 
-urls[84]="https://coolgames24h.blogspot.com/"
-images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
+urls[84]="https://coolgames24h.blogspot.com/2023/01/golfinity.html"
+images[84]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl42moVDpS_WUEXnhRpx_ToNVFjoxg-l1utGmjE3dxHQqz6kyHHBHYJTv1Tt1Nz2oI3e6e4Y-zKSWHNRliqN8lcyuWOqvVBhNNM6G93GjJKmQMwtTk3N67RLQ4xatySVcAV8OE9Sx9TEy3-cfhn--JGciCIadb9T1xhk5Mgltlx7Cp4dwK_YO9IigB/w300-h250-c/golfinity.png"
 
 urls[84]="https://coolgames24h.blogspot.com/"
 images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
