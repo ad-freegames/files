@@ -1,4 +1,4 @@
-var cont="<a href='" +urls[randomgame]+ "'><img src='" + images[randomgame] + "'border=0 width=233 height=233></a>"
+var cont="<a href='" +urls[randomgame]+ "'><img src='" + images[randomgame] + "'border=0 width=300 height=250></a>"
 document.write(cont)
 /*
      FILE ARCHIVED ON 17:49:15 May 20, 2018 AND RETRIEVED FROM THE
