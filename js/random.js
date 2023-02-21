@@ -403,8 +403,8 @@ images[130]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggVg56rO
 urls[131]="https://coolgames24h.blogspot.com/2023/01/swop-shoot.html"
 images[131]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj04DA2eLYSQ6bIokvph1Ukgq2DSuuNq7e9h-tCnyge3mesFAVwcw5p-2MR-e_PgzOIHkR9IGhmVyjmcNlEZZtlsbGzYEGFtOoWvl8NpFM3SXDRGw71lJYGbX_WELoZFWexbnnwtgCbjPsF39H3KpN4YZ-qmfhkwQ8b0DrRr-NJjgFqEpD5XTXrv0cr/w233-h233-c/swop-shoot.png"
 
-urls[132]="https://coolgames24h.blogspot.com/2023/01/monster-defense.html"
-images[132]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrrV869bI-Bftj3zAG9Zr_CdTtf-8eNex2oLqmbX6CazpbKLkqQ6mwH5FMusv5Nz7KDu3gEbDzCY3JxDPvSTNe-f6-tPy4kHT23Ggna0GDxklXVCkdC3fLG-vJypSUC8UjdpFD9gX3FUedx3t6Bo9d9AUTYl7gPjzOr6H2MCxbizz3ztzYkZ5znU3A/w233-h233-c/monster-defense.png"
+urls[132]="https://coolgames24h.blogspot.com/2023/02/hospital-stories-doctor-rugby.html"
+images[132]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixhLzummyyuu2LqEcnOE9q2aUxaTJpuW4MRkdriSrpCIiYvMjM_5xdDSJfYNInPQY8DAF3om5wdK8Sz7Lkb_6ZC1Z7D2hE6elXABLh0MWLH5PRuF-T284j7IwmjAGdrDfC9-qv7t6s6A92W4OBvyexency4IPJIRC5qSPOyH8z0l-Ebl_p1aCZhzwP/w233-h233-c/hospital-stories-doctor-rugby.png"
 
 urls[133]="https://coolgames24h.blogspot.com/2023/01/slime-laboratory.html"
 images[133]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ZsjsQWKZnDxiR30JApzmbamfu02RgAKDxQV4bWwBE94ynCmIAkAVh_inB-WO4BoLsXd6wFEle8DJKcCqInlh96s6T30l8A6IEcOrAwbo9aOh4jsDiT2xq9hjwj-vvQHMjpfIAflAqA77zzZtSdm5Xhq8vMEvJj2g8n9uzhWvGFKO2JV5LPr1p7XR/w233-h233-c/slime-laboratory.png"
@@ -750,9 +750,6 @@ images[246]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyedok4i
 
 urls[247]="https://coolgames24h.blogspot.com/2023/02/bossy-toss.html"
 images[247]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFHmiIPddxQkhXxWD58zJTUv3rHcm3bOWOSKcoaiDoPE_YMbWZiJ32uYrFRayZI6VrbCYo-VhzpPxKtFMeBB19GESFHM7c9DZM0wyWzdGFSM9rhCImXTY4-MVKKuCq-JqIz3qOpBqDHzEIWGvScWvjraFu467OhJ4Vwurnl0jUKclgy00u_2m9ifpy/w233-h233-c/bossy-toss.png"
-
-urls[247]="https://coolgames24h.blogspot.com/2023/02/hospital-stories-doctor-rugby.html"
-images[247]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixhLzummyyuu2LqEcnOE9q2aUxaTJpuW4MRkdriSrpCIiYvMjM_5xdDSJfYNInPQY8DAF3om5wdK8Sz7Lkb_6ZC1Z7D2hE6elXABLh0MWLH5PRuF-T284j7IwmjAGdrDfC9-qv7t6s6A92W4OBvyexency4IPJIRC5qSPOyH8z0l-Ebl_p1aCZhzwP/w233-h233-c/hospital-stories-doctor-rugby.png"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
