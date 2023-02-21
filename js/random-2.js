@@ -226,34 +226,31 @@ images[73]="https://tpc.googlesyndication.com/simgad/13820135049865910036"
 urls[74]="Parkour Race"
 images[74]="https://tpc.googlesyndication.com/simgad/6402823732997067745"
 
-urls[75]="https://coolgames24h.blogspot.com/"
+urls[75]="SchoolBreak.io"
 images[75]="https://tpc.googlesyndication.com/simgad/16660676646719697044"
 
-urls[76]="https://coolgames24h.blogspot.com/"
+urls[76]="https://coolgames24h.blogspot.com/2023/01/blumgi-rocket.html"
 images[76]="https://tpc.googlesyndication.com/simgad/17969542624777654665"
 
-urls[77]="https://coolgames24h.blogspot.com/"
-images[77]="https://tpc.googlesyndication.com/simgad/15571739352159675136"
-
-urls[78]="https://coolgames24h.blogspot.com/"
+urls[78]="2048"
 images[78]="https://tpc.googlesyndication.com/simgad/2771663010253195458"
 
-urls[79]="https://coolgames24h.blogspot.com/"
+urls[79]="4th and Goal 2021"
 images[79]="https://tpc.googlesyndication.com/simgad/769155983717228218"
 
-urls[80]="https://coolgames24h.blogspot.com/"
+urls[80]="Thumb Fighter"
 images[80]="https://tpc.googlesyndication.com/simgad/1821758349726530761"
 
-urls[81]="https://coolgames24h.blogspot.com/"
+urls[81]="Moto X3M 5 Pool Party"
 images[81]="https://tpc.googlesyndication.com/simgad/6811693811055589001"
 
-urls[82]="https://coolgames24h.blogspot.com/"
+urls[82]="https://coolgames24h.blogspot.com/2023/01/backflipper.html"
 images[82]="https://tpc.googlesyndication.com/simgad/3612329525175969529"
 
-urls[83]="https://coolgames24h.blogspot.com/"
+urls[83]="Merge Cyber Racers"
 images[83]="https://tpc.googlesyndication.com/simgad/12357281672151208009"
 
-urls[84]="https://coolgames24h.blogspot.com/"
+urls[84]="Kingpin Bowling"
 images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
 
 var randomgame=Math.floor(Math.random()*totallinks)
