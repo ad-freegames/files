@@ -7,43 +7,43 @@ var urls=new Array(totallinks)
 var images=new Array(totallinks)
 var titles=new Array(totallinks)
 
-urls[0]="https://coolgames24h.blogspot.com/2022/03/subway-surfers-world-tour-beijing.html"
+urls[0]="https://unblockedgameszone.blogspot.com/2022/03/subway-surfers-beijing.html"
 images[0]="https://1.bp.blogspot.com/-TM0QNc_hhqw/YTm0gRzZm7I/AAAAAAAAADk/TRGIfexgIjoeMKYdwX5D9yGe6uu9lmVOACLcBGAsYHQ/w233-h233-c/subway-surfers-beijing.jpg"
 
-urls[1]="https://coolgames24h.blogspot.com/2022/03/subway-surfers-world-tour-zurich.html"
+urls[1]="https://unblockedgameszone.blogspot.com/2022/03/subway-surfers-zurich.html"
 images[1]="https://1.bp.blogspot.com/-sWFAatMkXbw/YTmnucsLLXI/AAAAAAAAADM/54ADOwJJX-8K8dFo8HelRVKB7ZVCVbYVQCLcBGAsYHQ/w233-h233-c/subway-surfers-zurich.jpg"
 
-urls[2]="https://coolgames24h.blogspot.com/2022/03/subway-surfers-world-tour-san-francisco.html"
+urls[2]="https://unblockedgameszone.blogspot.com/2022/03/subway-surfers-san-francisco.html"
 images[2]="https://1.bp.blogspot.com/-Vkwv6DHwW9Y/YTmx1UhFftI/AAAAAAAAADc/8ZiiDWgHix8g7E5ojIPGRMhOausTQtAqACLcBGAsYHQ/w233-h233-c/subway-surfers-san-francisco.jpg"
 
-urls[3]="https://coolgames24h.blogspot.com/2022/03/subway-surfers-world-tour-berlin.html"
+urls[3]="https://unblockedgameszone.blogspot.com/2022/03/subway-surfers-berlin.html"
 images[3]="https://1.bp.blogspot.com/-cpaU3pHnfW4/YSda9nuoTUI/AAAAAAAAAAs/jllU6KostWk9WOEZLDeTaprlteKcioj1QCLcBGAsYHQ/w233-h233-c/subway-surfers-in-berlin.jpg"
 
-urls[4]="https://coolgames24h.blogspot.com/2022/03/subway-surfers-world-tour-houston.html"
+urls[4]="https://unblockedgameszone.blogspot.com/2022/03/subway-surfers-houston.html"
 images[4]="https://1.bp.blogspot.com/-zguOIWOMQsM/YTiz3Qsmh5I/AAAAAAAAACc/b3VEt7mi5y8f6dMJzppZZxxMOGjgo9_FACLcBGAsYHQ/w233-h233-c/subway-surfers-tour-houston.jpg"
 
-urls[5]="https://coolgames24h.blogspot.com/2022/03/subway-surfers-world-tour-monaco.html"
+urls[5]="https://unblockedgameszone.blogspot.com/2022/03/subway-surfers-monaco.html"
 images[5]="https://1.bp.blogspot.com/-VWGF3y9L4tg/YTi6RCxcYbI/AAAAAAAAACs/7F-4J4xdko8D19qr2k_Ao9vYg7GV7wLSACLcBGAsYHQ/w233-h233-c/subway-surfers-monaco.jpg"
 
-urls[6]="https://coolgames24h.blogspot.com/2022/04/subway-surfers-world-tour-seoul.html"
+urls[6]="https://unblockedgameszone.blogspot.com/2022/04/subway-surfers-seoul.html"
 images[6]="https://1.bp.blogspot.com/-XdTr448ioug/YTi3rtqIo-I/AAAAAAAAACk/dH_vc7TA9QwC05PlnzYCNtTJMF8VIjn4ACLcBGAsYHQ/w233-h233-c/subway-surfers-seoul.jpg"
 
-urls[7]="https://coolgames24h.blogspot.com/2022/04/subway-surfers-world-tour-havana.html"
+urls[7]="https://unblockedgameszone.blogspot.com/2022/04/subway-surfers-havana.html"
 images[7]="https://1.bp.blogspot.com/-5OpyCC8yb7w/YTjRkN0I91I/AAAAAAAAAC0/l3gPuwEpTsQ2hgbyxUF6NEs5NuPDcG7fwCLcBGAsYHQ/w233-h233-c/subway-surfers-havana.jpg"
 
-urls[8]="https://coolgames24h.blogspot.com/2022/04/subway-surfers-world-tour-new-orleans.html"
+urls[8]="https://unblockedgameszone.blogspot.com/2022/04/subway-surfers-new-orleans.html"
 images[8]="https://1.bp.blogspot.com/-aMtLOqjsjOk/YTjY2Nl479I/AAAAAAAAADE/GAaoHZsaxlwYDB2YUZtMnBCpwS1adkjmQCLcBGAsYHQ/w233-h233-c/subway-surfers-new-orleans.jpg"
 
-urls[9]="https://coolgames24h.blogspot.com/2022/04/subway-surfers-world-tour-london.html"
+urls[9]="https://unblockedgameszone.blogspot.com/2022/04/subway-surfers-london.html"
 images[9]="https://1.bp.blogspot.com/-TRCbIrAahao/YTmvSLaTfKI/AAAAAAAAADU/H0x9-DSQB30qUHNttdT9LWLe2C6fB7e2ACLcBGAsYHQ/w233-h233-c/subway-surfers-london.jpg"
 
-urls[10]="https://coolgames24h.blogspot.com/2022/04/subway-surfers-world-tour-saint.html"
+urls[10]="https://unblockedgameszone.blogspot.com/2022/04/subway-surfers-saint-petersburg.html"
 images[10]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY553CTeSxx5qopuWhkMj61pgTyd9LT44LFNg8sxq9lIUBSnfAbgpZuPkyKnyA6WdkyTN-cVq7Rpgn0Ka4cyntAGKA_ucljAYNpv-5Zwmj2Ws78nzcdP5Rkig47852H9d_qLlP__of98lVdnKJDNE4_jUIEKsGUe3lq9gi5lJoKHIBO1akgb6QAutL/w233-h233-c/saint-petersburg.jpg"
 
-urls[11]="https://coolgames24h.blogspot.com/2022/06/subway-surfers-world-tour-atlanta.html"
+urls[11]="https://unblockedgameszone.blogspot.com/2022/06/subway-surfers-atlanta.html"
 images[11]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnm7IhofTx9XG1C8TtcFrr8Z-HJ6RmSemprbJnvmMkB6vrjPLAIe8knf8LOtz3SET_yRaQxiRMsAo5eTMd74iuOM2yRkKAbkmt_Ts4me1JYqushPwNBHzeBpefptrG_p5_VHlDITIJVYazmHJ-wQOuZhbMQMw60v7B5iTLSc60cHHWQj9OLf8fTDk/w233-h233-c/subway-surfers-atlanta.jpeg"
 
-urls[12]="https://coolgames24h.blogspot.com/2022/06/subway-surfers-world-tour-singapore.html"
+urls[12]="https://unblockedgameszone.blogspot.com/2022/06/subway-surfers-singapore.html"
 images[12]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCWZCu7JWEXMqG1FMDy047Z8C0NCfY4KBTFQg2Yh43LKufwQhqf5epFdrBW0hn5MCwGdOg8p9ml20a6V7m04L77K_JR7CHwyJrnB9lsnaHgsfmx1DdQOqXgoWZF2tTx20N7KLZuzv-ZKAM8M4SVcHXc_Yb3Iv8lgcafUY82aNFjZ2U0AX1CGD1OJ8u/w233-h233-c/subway-surfers-world-tour-singapore.jpg"
 
 urls[13]="https://coolgames24h.blogspot.com/2022/12/zoom-be.html"
