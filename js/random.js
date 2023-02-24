@@ -28,7 +28,7 @@ images[5]="https://tpc.googlesyndication.com/simgad/10166149925152129205"
 urls[6]="https://unblockedgameszone.blogspot.com/2023/01/stickman-climb-2.html"
 images[6]="https://tpc.googlesyndication.com/simgad/1867532978252216016"
 
-urls[7]="https://unblockedgameszone.blogspot.com/2023/01/subway-surfers-world-tour-marrakesh.html"
+urls[7]="https://unblockedgameszone.blogspot.com/2023/01/subway-surfers-marrakesh.html"
 images[7]="https://tpc.googlesyndication.com/simgad/4057615342600174640"
 
 urls[8]="https://unblockedgameszone.blogspot.com/2022/12/brain-test-2-tricky-stories.html"
