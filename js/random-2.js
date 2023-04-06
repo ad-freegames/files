@@ -304,55 +304,55 @@ images[97]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSDy0_xhC
 urls[98]="https://www.google.com/search?q=https://unblockedgameszone.blogspot.com/2023/01/squish-machine.html"
 images[98]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJev8Wsu6zcSBSoOCXSB2NGMDybqY1aU5s9Cu3IFHd-a5rz6uqVM_wdzg8170BT_1IPT_3xbbmFl9Vb7GicS1xyXybTKpklhEQmp2B95JLJqoX73avoJ20XP1utOXDxGVvSZCT-WrgX5mbiHHUDZmTWVLeIsmFoShXq2J2NFbjcUWoUA4GtS_K86c2/w250-h250-c/squish-machine.png"
 
-urls[99]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/beecoins-inc.html"
+urls[99]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+beecoins+inc"
 images[99]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-9aHDQHITD4f9TbfN5NtAff5S9nE7lhX7qa4_CtdAXnPutylhP-qYAdlTtnHY3z4fjKsnCwNOU4oVRt8IUfX2KhJGk6yCk6URUe9__UVCAa82khA9ySlTlVMYXzWxwWkTl30IFdQ59ATKEtqWfBSAJU36u27K5D5PWKW-Mp80QhAW_hyjU3PdWEkp/w250-h250-c/beecoins-inc.png"
 
-urls[100]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/apple-knight-fight.html"
+urls[100]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+apple+knight+fight"
 images[100]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaJlQg4LsyUNBZcden0TS0vONI-lp4T9sjF78xR4rq1crDq44mv_bHBo7MNAQlRhkcHpzzyWPJHquZxRyXEM3n_GSaEVjY1oq1vuQS7ha1biBFZlDyoo63HexFynqYFK3pnW_KmlJOYjmWEYjbwpItZ6eg9WxTiZwBvlNmDE8iBCdhJw_zBaSU2JW/w250-h250-c/apple-knight-fight.png"
 
-urls[101]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/dudeball.html"
+urls[101]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+dudeball"
 images[101]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-BtlMyLDIYM4glImOPYwa7o-4Q2FvDhw6q9qp1A5gSWKBk8EMxhR35t3R4lNECtafwVQZNQzEA5p8uRBpzqBCkkCm3BAnKL6hddDgC0tdiTuCSGjXRpsneStOYKRvmQimhg3cJZQQgxysxWRgsnETsxpO-If7yrzCkJVij70PrChkOdfRB3SDKma/w250-h250-c/dudeball.png"
 
-urls[102]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/get-on-top.html"
+urls[102]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+get+on+top"
 images[102]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIj_ZTAJYSMpL_4ekrFUrTTt_tklvo-8G8NppBxBTbxPLntK9qZwjEfM2Af8vX7M3Wjz3BiCLhXJvXbSI4aseet7yIvIyvJomvvMJKcPIiuAQC25JnmrZCQJ_5_duwRNcygnE7PtMN3Zb2ftsy9m87_GdknZ75YpTbSQOdBqNit33aRrK6G_SWmhbT/w250-h250-c/get-on-top.png"
 
-urls[103]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/minimissions.html"
+urls[103]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+minimissions"
 images[103]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJunJvtkm5vpzX3VLvWOy0QNJfT6RRdQcuoVMmR_pyRfRx8Usr5ee3VS-1kWcFXh6BrPI2Yb1TEsjOLzNLkCMxfhBmNzw0Fsncr7RUbOKB4FP3PLQKXoStH1Tyl57E0CHgjpbfMnRO1lpsOdJ6ECZaLmiRXB7JuzbGc9hYFogDqOCAPIFH3Gtfflh2/w250-h250-c/minimissions.png"
 
 urls[104]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/squish-machine-2.html"
 images[104]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn06Dh_p2Uu41Wp6c9JYC_zwoHJAAhplmlD1bL_8oN0cmvCUsLOYL6dFnuXVY1a1S14PgJR6IJUmYD1Kgzot2DZVST8RMobR69z8kVX5V7fnIsqtwbkZx_GoKnQcEW34fuy3FwNr9QoP0RbNVoUS9s9vP3HJUZnD_KmQ9-Wn2x7S-z4huGZ-8Ybn_J/w250-h250-c/squish-machine-2.png"
 
-urls[105]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/crab-and-fish.html"
+urls[105]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+crab+%26+fish"
 images[105]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaVlSw_1sHQg-H-ELd9FbB0d64UV87gs8bt_ZhOaiVeRDwFm42pTbywvUIdM8dgZppmZ0Ve5CT1XDwCEhQ4SVW5EA_zqPSXErnwjeNcPIgCWAExcHEcwSUi85YoES8oV3J7pKL1Ehavdw2AUVAzFh2jZA6S-rCR_c-TzyQlns9kRFZ1DW1uMeDkEg6/w250-h250-c/crab-and-fish.png"
 
-urls[106]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/mad-car-racing.html"
+urls[106]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+mad+car+racing"
 images[106]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1XrlvQ8u8wZPbIfE-kZbcZdBL0cvmU_i4enQy5oNBDbHw234PA0-VHwW0Zc8pDFfhx-16_4VgYW4Z8ruAX8XMJ8Od7Dr6JqsXZ7G9O8JiHN5XsM3E42Rs0O828MlWH7tmfugR7iEwLHGqVccgAye1NaEbovvJZBsnfXu0vrETIEvNHI3R7YadZgQ/w250-h250-c/mad-car-racing.jpg"
 
-urls[107]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/one-escape.html"
+urls[107]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+one+escape"
 images[107]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiILWjOSrbqXE3Sj0Wupj0sY4_vN4TliV4IeBvXja1UW2RF3j65o1JMlNsFesLgErid8blJbx91emkqazw2i40uDox87CDKcvZbvOc2HFsB2lsI8fWB5GHViKY4cQewyqw94OZxYay-qwHuh_KwVrANCyXvG40yktCMKtBqU5HwumNK_Uzb9NpFQI4A/w250-h250-c/one-escape.png"
 
-urls[108]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/foggy-fox.html"
+urls[108]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+foggy+fox"
 images[108]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcXDnSuD4dt0gYnGKuql6JxHwrymfjnbQxQ29pY-b-4sOcCmCPia_4agb2-NUY_9eGWoKG3tJOjF9z8mckawCtYFcQYPqCw1lS4KWuIuQwQIqMQX-hvZJ4c17K4vKPMCNl028Ck0cauWloS3wdZqO0XfVdO_X26bdkwEvfiPMt8-k4Je-ZocdiwPFm/w250-h250-c/foggy-fox.png"
 
-urls[109]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/guess-what.html"
+urls[109]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+guess+what%3F"
 images[109]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWT0e2u0Q5U3rPa8yQljENVfFdTvpz6-fPOrrGwEUmIIeGLJEX0V71rpi-s2_q699bXMx9dXd4o5Ao_Tt9o6WEZVrCSxwQ9t8ypqgzYcBI4OHiEdWd-WTkrnFyej7OOEt5vR1p231z8bAUPOXYMnSQgTl1Esj23u00GE6hlSh70E003ODRDMcMXVPA/w250-h250-c/guess-what.png"
 
-urls[110]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/cartoon-mini-racing.html"
+urls[110]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+cartoon+mini+racing"
 images[110]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDNI52ciCOOlz6ptZt50bb31NFJEQaS7-eogS_RkZqnQzVGGR8NQUI2YdDWjRcSPJ93d1HsggpYCBActt1HGw2xsTSwboa1BjteTsPgR4TQALjqhCSLoIXhJW8oOxEum7l8XPANoNQ9WcNxlp6ugMhiFll1VKvd19muQ3Cgm8uH5BzEXOdOdTW_oE/w250-h250-c/cartoon-mini-racing.png"
 
-urls[111]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/papercraft-wars.html"
+urls[111]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+papercraft+wars"
 images[111]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixspqNwcvRRENYlSVoNSaP_L_coTYow6NuwnjVssvQMyrDMf4hgDjzIJeBkpC1caNjZ1lGgHYQIsa87EleWGZ7tJTrTdU75eyDZR0BPvXXdej7QCuec5ZqsteM25VoKSIkwUgc92iK6qctTGKGAqa_laonn6SL3fx8yqGFbL9CmaQvDdyG_x73xk6M/w250-h250-c/papercraft-wars.png"
 
-urls[112]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/subway-surfers-marrakesh.html"
+urls[112]="https://www.google.com/search?q=https://unblockedgameszone.blogspot.com/2023/01/subway-surfers-marrakesh.html"
 images[112]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8Uwm2sFTHUihayekN_OepYrgAjzyaDpebAw6IwsZp0estRQty8OieaeGSHMOpTpdENeNuKTEO0dSPZ1qqvuFpjJeY0JIb8CWlpoHbE_16gSSa9ksBshYAaBnv2M_OTcmHPS98A6B03j_r_PQpEkoHDTqMT4ndXqohWDSTm69WaKyzqYDcYn506so/w250-h250-c/marrakesh.png"
 
-urls[113]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/tap-tricks.html"
+urls[113]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+tap+tricks"
 images[113]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHQwDFa0XMIQc3AGpAlqX8D-r_XBiIHCsIkvbDBU0S3_LodE55APGYJb61ebj7IPkMOo0-J4WUu112pkUO3fTA2B8edAotq1OirIbKB-BGSF-ZGhdHoINT7R0m6XIzw0Y-7lIoxUWmBO3WjmvI5dpxcIFUNfrKjUKU8ui7GlxZ_hVNRmMcNGgWC-X/w250-h250-c/tap-tricks.png"
 
-urls[114]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/space-thing.html"
+urls[114]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+space+thing"
 images[114]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihQ_8S-3DaN1DvqgOjiq4RRVa9DGL_1YegI5D-i9BpVejp1r6bFJK8s4BHTQlgqiJvAFe54H3mKzozcnB31HSuxCzcmDCuAr-ovwgYqniKk39VQNxk2YGKWlkjwALf0BLBjrPNcvsq4a5c8cd6wad559aYR6mw_h5qEK-qkrpjRvlBNTTytaTavzEx/w250-h250-c/space-thing.png"
 
-urls[115]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/dunkers.html"
+urls[115]="https://www.google.com/search?q=site%3Aunblockedgameszone.blogspot.com+dunkers"
 images[115]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOeuc1yF1MhxHmTqhF1eBUCPBO8aAMN0bsi4eFNp5lTOXBAnekSu44It4iB92XeMsggwuzcO1wyM-N2zQgrbVBFM49eeOe2gkkfNujO3xfkEYPdOQ5nf1pRVACPPh8LZcYen7v9IIMKDFUt-UCc7XB6-b08-b5L8qAZJZAmZAhNtAvkg0Q5bAUB-_/w250-h250-c/dunkers.png"
 
 urls[116]="https://googleads.g.doubleclick.net/pcs/click?&adurl=https://unblockedgameszone.blogspot.com/2023/01/mr-boomi.html"
