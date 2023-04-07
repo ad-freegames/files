@@ -871,6 +871,10 @@ images[268]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8W7YUO7
 urls[268]="https://www.google.com/search?q=site:unblockedgameszone.blogspot.com+cubes+2048.io"
 images[268]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sMkjTRF2cIqmFA-UoTWc9aEgVQF9B3Ol-IkYlfyM7v1HG2ivQo5f6qT_1F_JOL93rv6KMGR8-AnGPuRwYs9bRy7rK_rPB5qoi7XvcUgQ-2FpyCiHxcyfNuTFhApaJARUM9TYdPoMZNy_xF2BhlrkJcP0_7A6JGCtwObbgdUvirz6vO71c9j-sjTgNw/w264-h264-c/cubes-2048-io.webp"
 
+urls[268]="https://www.google.com/search?q=site:unblockedgameszone.blogspot.com+burnout+night+racing"
+images[268]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ7_TzQuQQwjskJAq2QWCI4Uwlv4QCPQlfQk-fO02fFV49wq32RAJCh11oBMXbucFy8zrm9DFBpHRIT3XKsJuklCXnxaVOkqFUaG0w1jkreXP7XUaCwRw5anY8BauCvYm8xyo0UzzwshgP2WFli8J5AmEKgCdZosX4g5ApH29xHDd3kfSNauL778h1GQ/w264-h264-c/burnout-night-racing.jpeg"
+
+
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
