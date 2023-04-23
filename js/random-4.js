@@ -181,6 +181,12 @@ images[83]="https://tpc.googlesyndication.com/simgad/12357281672151208009"
 urls[84]="Kingpin Bowling"
 images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
 
+urls[84]="Blumgi Castle"
+images[84]="https://ads.poki.com/creatives/aa99bcc6e5cc053d8e5c62855b76786e.png"
+
+urls[84]="tunnel rush 2"
+images[84]="https://ads.poki.com/creatives/3a5810514e518e9d5f250e3ec191d0e0.jfif"
+
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
 var randomgame3=Math.floor(Math.random()*totallinks)
