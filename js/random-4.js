@@ -25,14 +25,12 @@ images[5]="https://tpc.googlesyndication.com/simgad/9672358934950132986"
 urls[6]="tunnel rush"
 images[6]="https://tpc.googlesyndication.com/simgad/10500307277608340622"
 
-urls[11]="Rodeo Stampede"
-images[11]="https://tpc.googlesyndication.com/simgad/16513342181830105209"
+
 
 urls[12]="Combat Reloaded"
 images[12]="https://tpc.googlesyndication.com/simgad/10283013661945400621"
 
-urls[13]="Angry Gran Run"
-images[13]="https://tpc.googlesyndication.com/simgad/18304369947012416662"
+
 
 urls[15]="raft wars"
 images[15]="https://tpc.googlesyndication.com/simgad/11613236893504494371"
@@ -40,11 +38,9 @@ images[15]="https://tpc.googlesyndication.com/simgad/11613236893504494371"
 urls[16]="Iron Snout"
 images[16]="https://tpc.googlesyndication.com/simgad/1496238822238239006"
 
-urls[17]="Crossy Road"
-images[17]="https://tpc.googlesyndication.com/simgad/2032728609773414249"
 
-urls[18]="The Impossible Quiz"
-images[18]="https://tpc.googlesyndication.com/simgad/3628861555095186728"
+
+
 
 urls[19]="Hoppenhelm"
 images[19]="https://tpc.googlesyndication.com/simgad/8443528021250698062"
@@ -91,11 +87,9 @@ images[40]="https://tpc.googlesyndication.com/simgad/12167932441723189699"
 urls[41]="Brain Test"
 images[41]="https://tpc.googlesyndication.com/simgad/4177033149105135800"
 
-urls[42]="Short Ride"
-images[42]="https://tpc.googlesyndication.com/simgad/15210574346880738507"
 
-urls[43]="Merge Round Racers"
-images[43]="https://tpc.googlesyndication.com/simgad/9029110852717929135"
+
+
 
 urls[44]="Fancy Pants Adventure"
 images[44]="https://tpc.googlesyndication.com/simgad/9699441934714495564"
@@ -109,14 +103,12 @@ images[46]="https://tpc.googlesyndication.com/simgad/8449982175589010209"
 urls[48]="Rowdy City Wrestling"
 images[48]="https://tpc.googlesyndication.com/simgad/7248545872050013011"
 
-urls[51]="Basketball Stars"
-images[51]="https://tpc.googlesyndication.com/simgad/12261332603037073007"
+
 
 urls[52]="Demolition Derby Crash Racing"
 images[52]="https://tpc.googlesyndication.com/simgad/4441049223761726027"
 
-urls[53]="Stick Merge"
-images[53]="https://tpc.googlesyndication.com/simgad/1865686813378777901"
+
 
 urls[54]="Bouncy Woods"
 images[54]="https://tpc.googlesyndication.com/simgad/10926825959868835380"
@@ -181,8 +173,7 @@ images[83]="https://tpc.googlesyndication.com/simgad/12357281672151208009"
 urls[84]="Kingpin Bowling"
 images[84]="https://tpc.googlesyndication.com/simgad/13314565272976068338"
 
-urls[84]="Blumgi Castle"
-images[84]="https://ads.poki.com/creatives/aa99bcc6e5cc053d8e5c62855b76786e.png"
+
 
 urls[84]="tunnel rush 2"
 images[84]="https://ads.poki.com/creatives/3a5810514e518e9d5f250e3ec191d0e0.jfif"
