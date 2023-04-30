@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=22
+var totallinks=31
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -75,6 +75,33 @@ images[21]="https://tpc.googlesyndication.com/simgad/17969542624777654665"
 
 urls[22]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F01%2Fbackflipper.html&sa=D&sntz=1&usg=AOvVaw1A22mDs0ev5jvp5JJ15z5h"
 images[22]="https://tpc.googlesyndication.com/simgad/3612329525175969529"
+
+urls[23]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Frodeo-stampede.html&sa=D&sntz=1&usg=AOvVaw3KP1GLJdVNpIiY9DICsVSE"
+images[23]="https://tpc.googlesyndication.com/simgad/16513342181830105209"
+
+urls[24]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fangry-gran-run.html&sa=D&sntz=1&usg=AOvVaw3G_CkiRz_ilZLHH-ovvBjw"
+images[24]="https://tpc.googlesyndication.com/simgad/18304369947012416662"
+
+urls[25]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fcrossy-road.html&sa=D&sntz=1&usg=AOvVaw2BQWRPug7YHJ1SJUU-lVH3"
+images[25]="https://tpc.googlesyndication.com/simgad/2032728609773414249"
+
+urls[26]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fthe-impossible-quiz.html&sa=D&sntz=1&usg=AOvVaw1MS2YwiK1ooZGXQBB-KAku"
+images[26]="https://tpc.googlesyndication.com/simgad/3628861555095186728"
+
+urls[27]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F03%2Fshort-ride.html&sa=D&sntz=1&usg=AOvVaw08AQxh7JMXky5qPtcNv8W6"
+images[27]="https://tpc.googlesyndication.com/simgad/15210574346880738507"
+
+urls[28]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F03%2Fmerge-round-racers.html&sa=D&sntz=1&usg=AOvVaw0xVoRQxNDLGtmXQkZn7NeP"
+images[28]="https://tpc.googlesyndication.com/simgad/9029110852717929135"
+
+urls[29]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fbasketball-stars.html&sa=D&sntz=1&usg=AOvVaw1i_FiT1dHg-5Pwr6Bd2KpV"
+images[29]="https://tpc.googlesyndication.com/simgad/12261332603037073007"
+
+urls[30]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F02%2Fstick-merge.html&sa=D&sntz=1&usg=AOvVaw3gruR_S7rm--muLuLy8pVI"
+images[30]="https://tpc.googlesyndication.com/simgad/1865686813378777901"
+
+urls[31]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F01%2Fblumgi-castle.html&sa=D&sntz=1&usg=AOvVaw3A3nR9HvOPTfSoI0rjpxI0"
+images[31]="https://ads.poki.com/creatives/aa99bcc6e5cc053d8e5c62855b76786e.png"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
