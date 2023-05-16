@@ -13,8 +13,7 @@ images[0]="https://tpc.googlesyndication.com/simgad/2214601101586390609"
 urls[1]="raft wars 2"
 images[1]="https://tpc.googlesyndication.com/simgad/7340780122315886153"
 
-urls[3]="running fred"
-images[3]="https://tpc.googlesyndication.com/simgad/18012713050088649335"
+
 
 urls[4]="bubble trouble"
 images[4]="https://tpc.googlesyndication.com/simgad/5064231974830408315"
@@ -63,8 +62,7 @@ images[26]="https://tpc.googlesyndication.com/simgad/4132923389753912000"
 urls[30]="Retro Bowl"
 images[30]="https://tpc.googlesyndication.com/simgad/8889753911707045472"
 
-urls[32]="Smashy Duo"
-images[32]="https://tpc.googlesyndication.com/simgad/10992303186439749386"
+
 
 urls[34]="Piano Tiles 2"
 images[34]="https://tpc.googlesyndication.com/simgad/10205694461540843398"
@@ -91,8 +89,7 @@ images[41]="https://tpc.googlesyndication.com/simgad/4177033149105135800"
 
 
 
-urls[44]="Fancy Pants Adventure"
-images[44]="https://tpc.googlesyndication.com/simgad/9699441934714495564"
+
 
 urls[45]="Tower Crush"
 images[45]="https://tpc.googlesyndication.com/simgad/1288429693823685518"
@@ -131,8 +128,7 @@ images[62]="https://tpc.googlesyndication.com/simgad/12063965145246727073"
 urls[64]="Blockpost"
 images[64]="https://tpc.googlesyndication.com/simgad/10106948051022751509"
 
-urls[65]="Crossy Road"
-images[65]="https://tpc.googlesyndication.com/simgad/14546381304422363970"
+
 
 urls[66]="Heart Star"
 images[66]="https://tpc.googlesyndication.com/simgad/16831867138346066204"
