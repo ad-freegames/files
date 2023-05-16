@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=31
+var totallinks=35
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -102,6 +102,18 @@ images[30]="https://tpc.googlesyndication.com/simgad/1865686813378777901"
 
 urls[31]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F01%2Fblumgi-castle.html&sa=D&sntz=1&usg=AOvVaw3A3nR9HvOPTfSoI0rjpxI0"
 images[31]="https://ads.poki.com/creatives/aa99bcc6e5cc053d8e5c62855b76786e.png"
+
+urls[32]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F05%2Frunning-fred.html&sa=D&sntz=1&usg=AOvVaw0qGle5XHf13DNYprQ3_W5k"
+images[32]="https://tpc.googlesyndication.com/simgad/18012713050088649335"
+
+urls[33]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F05%2Fsmashy-duo.html&sa=D&sntz=1&usg=AOvVaw0Nnz_bPve7zgP4dN9wf53b"
+images[33]="https://tpc.googlesyndication.com/simgad/10992303186439749386"
+
+urls[34]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F05%2Ffancy-pants.html&sa=D&sntz=1&usg=AOvVaw3FzG1JoE9ZjLc5SDuhEYKO"
+images[34]="https://tpc.googlesyndication.com/simgad/9699441934714495564"
+
+urls[35]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fcrossy-road.html&sa=D&sntz=1&usg=AOvVaw2BQWRPug7YHJ1SJUU-lVH3"
+images[35]="https://tpc.googlesyndication.com/simgad/14546381304422363970"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
