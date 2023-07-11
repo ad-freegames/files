@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=611
+var totallinks=610
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -1114,8 +1114,8 @@ images[367]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQWkXxWS
 urls[368]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fprisonela.html&sa=D&sntz=1&usg=AOvVaw2nKJA-AtIZRyFC2J3SPw92"
 images[368]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVlBtwxl3UHxt10YPH9tP-b-u4OCfKg-sDuMABbb68yLEOzZHUKb-Cax0VTrp-Am1NZJwzgu_GNvA6x5oQ-kTbZ-UX18IpYJ6A949HcTXiAk42QPFWy0vlqO0E7GkkEWE6g5wOKFEmi5yywqIo0APmaEoPUpbPzA5ptLjiHDf1m4UztZ4P0xJ3lljOKA/s512/Prisonela.png"
 
-urls[369]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fstumble-boys-match.html&sa=D&sntz=1&usg=AOvVaw2wGwKjYkh6D2VMnP5OnMH_"
-images[369]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbxLogsQY2wE20QiOmqsCN7jHoXO8gPVqUqubjg2Y563mxYx-yhizjSnw1SkKRaDjDHSyucnTp3kOP1-NY7V-uqRiyp2RhrjfF0IKZQwv9JBxPsBKEwTAz0ncgb9eA70J9-ARw7GSCVOq5nSgnoqEtK35TbQwc5QEOHUr2AhGd2lmKWZes3HeTTETDew/s512/stumble-boy-match.jpeg"
+urls[369]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F06%2Fkick-dummy.html&sa=D&sntz=1&usg=AOvVaw2QpF5vtCWas_J9cm9cJx4z"
+images[369]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMBuzqKi2--KBEu_dRw3W1froNETyOrqonmWcDrsVj4eLoVh8UQbIUKIPOX4YfN_phw7bPrBbkh4bOy-jrK-IvdhBQHVnC8olljcCvbMHOjVP29I581Q_rhIf_GZyBbo7si4JhT5JduUseE_BfKSeZcVN6Zz2zbc9zstlPZZmHPPKsSzLjs09Wr9UAw/s212/kick-the-dummy.webp"
 
 urls[370]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fducklings.html&sa=D&sntz=1&usg=AOvVaw2ul-vTC_qxvnUq2E_bqfLM"
 images[370]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZzvL3boj2XOE-Dii52sq5LkAavmdOcC7DZc52V6YEiRX8WWe4dMpqXPlHdk49l4owsyehmtvw1Ce1yntOXnCV2RZL1Ai4p9QpFqIXnjUn1jsoWpZGDGH6aCm7BZYBwbikdj73D_EKhY3CSHpYz7rDPvN3n8g5WZM5VJqSeDveAhdZNav_JWlqWAkZA/s512/Ducklings.png"
@@ -1837,11 +1837,8 @@ images[608]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhegeZq8r
 urls[609]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F06%2Fpigeon-ascent.html&sa=D&sntz=1&usg=AOvVaw38n97_-MnQk7XxknCZF5W8"
 images[609]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho61gSXnLPtpToAkhvGqQU2GeXmkehk_ssrkoU6J0e5H2yfcH8OcOeRDwtAz8laec5NwOV4LWZDzYwUl9qcFla6LoR8tmVx1fnab95ivFrCUnnl6t5UHrURsNER6p1Ab6pKwES85J2HDvYGg7Tow1MX_vzkkevyzbpX6NZWq2utP_JGpbfAf9rgSY1rQ/s512/pigeon-ascent.jpg"
 
-urls[610]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F06%2Fkick-dummy.html&sa=D&sntz=1&usg=AOvVaw2QpF5vtCWas_J9cm9cJx4z"
-images[610]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMBuzqKi2--KBEu_dRw3W1froNETyOrqonmWcDrsVj4eLoVh8UQbIUKIPOX4YfN_phw7bPrBbkh4bOy-jrK-IvdhBQHVnC8olljcCvbMHOjVP29I581Q_rhIf_GZyBbo7si4JhT5JduUseE_BfKSeZcVN6Zz2zbc9zstlPZZmHPPKsSzLjs09Wr9UAw/s212/kick-the-dummy.webp"
-
-urls[611]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F06%2Fwood-farmer.html&sa=D&sntz=1&usg=AOvVaw0aLb-kBXVq8LVc9Mt04OWA"
-images[611]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZBGx2hK8MPOIysK8QyYCYIdDrfyW5alc76patL-q7R9VmonH7XZm90epno5I1rLUxcV3Obiz1qF8BDpDb1n0JMK8MgX8pq1Za0YdPjSj2OHNfL6Qo29QYpHU8lMbOjy58WoxVZtXSituL73TfOwEwSKW-KkMM1x3dlr9g7eZRbg7zhPsj_rSP4lPYsg/s512/wood-farmer.png"
+urls[610]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F06%2Fwood-farmer.html&sa=D&sntz=1&usg=AOvVaw0aLb-kBXVq8LVc9Mt04OWA"
+images[610]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZBGx2hK8MPOIysK8QyYCYIdDrfyW5alc76patL-q7R9VmonH7XZm90epno5I1rLUxcV3Obiz1qF8BDpDb1n0JMK8MgX8pq1Za0YdPjSj2OHNfL6Qo29QYpHU8lMbOjy58WoxVZtXSituL73TfOwEwSKW-KkMM1x3dlr9g7eZRbg7zhPsj_rSP4lPYsg/s512/wood-farmer.png"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
