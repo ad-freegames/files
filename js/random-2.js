@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=789
+var totallinks=780
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -988,8 +988,8 @@ images[325]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBQ_0_hB
 urls[326]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fkitty-cats.html&sa=D&sntz=1&usg=AOvVaw09IinIQFAsf9aWSoltoaE3"
 images[326]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM714xGHJ_x_7qpNNdZvPksYNdZ7R5EdCPxchrSPNqL2PKBRoKi_LdQ6sSajMD8Lm0XzTWf65TzatmDpKuiGnAhQRmawXlhw6zJa5qEO3WKrV1J4BRUK7dCSweSdInUY0PGfAw2JZzBwRwpog_lFoXrB1cFth43FwXXqQGoKvU8DpNaw_7Q-3jd99EWkUk/s512/kitty-cats.jpeg"
 
-urls[327]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fsecrets-of-charmland.html&sa=D&sntz=1&usg=AOvVaw3szKPNGcIU0Z7HZE6T-ncr"
-images[327]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6nXOrDVTuPaXkuR3ybaoj9wGdoF3mntYIcZwkyblfKYIHgWf8yGAX62jOP9NRaOcCd0e13E-5vhiiuTsZ5ffJgsuid2GCYalEjDAYEAvhWjpv9LjdFeuOxzrejewZ3Hs4T8OtM1VI-kSU5nHEp_csoEDG9Uwaoos-n4GkDExOUmA2ODWOGROuUMY9dDLU/s512/secrets-of-charmland.png"
+urls[327]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Ftank-battle.html&sa=D&sntz=1&usg=AOvVaw3r78IES7xbaPh4bbZoADr3"
+images[327]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiokwrvqKv4VgM-DCC29tKfmKKoljULOLeQMxj0ntJ_QHCA6rAGBXTnGJ0bR6aNRXDd-roaRzcOe4DdmaWQj3nwJXpLQ17o8vPxo7zSmofP6Hf_A3BEnl0XZG-bMvgh2SOR_c8MynDhqhkn8POIsFfRvlx7AD2AWBtuOhrFjVnk2Lyu79iX490-FLLRH3za/s512/tank-battle.jpeg"
 
 urls[328]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F04%2Fapple-shooter.html&sa=D&sntz=1&usg=AOvVaw36brlKTqi8_yeeX9tpu63-"
 images[328]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqvENmSSTUwHLQIxVSx2Lcq5vsDoEx1umq_jkfRNxP_PuHJxxspl23Dj5PxvPfglVD4AVqdt1g8x10lEphHAn3ynbpnBZn9sYcnXLubauHAgkAwa2NnxHOYy07Nq9RF7_QPG3kHTUtuSQrje1e2QtFUVkCF9Y-8EJWvd91OMMkvxLQFo0XwuUltzr4/s400/apple-shooter.png"
@@ -2335,47 +2335,20 @@ images[774]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLEX7TKW
 urls[775]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fmergest-kingdom.html&sa=D&sntz=1&usg=AOvVaw2xH61-IeMWlf8IfjjKSKVt"
 images[775]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggeuUcod9kS-8CdL0nXAtht2Fw4oCy8GsZc7ZeMugX1F6diRJEwDxI1IQA5mHULoOzi2yIR58BHszclQJ7mlzZrHUgfj_B2Op53h_6r7k0-NhvKS3WOVRjXjxhpUeE4LVM9rB5pRjRiO14a863wzKoe0WTg26bZLfs2Po0zdYzI7ctCh3aeCrgdJUGyxFd/s512/mergest-kingdom.jpeg"
 
-urls[776]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Ftile-guru-match-fun.html&sa=D&sntz=1&usg=AOvVaw2SaMtSyxabHFwl2JRUq19l"
-images[776]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsZMLrtHefqqdHJrHiDwTM5TdE7YE05XvlYbhA74z2jMHfVtG-GaUXUI09wyGhyqZR_qzXroP2D2r4CnK_WKi6LvVziXjNfqWXoLj2xWDwna1PWSCAiXPL2EFOj6Vlj8OkKb-FqnOB0q9UFtuP9WtPd4kQsCrbeGljLVr0Qyme8Kdnnku5T8dh8GtIFRL4/s512/tile-guru-match-fun.jpeg"
+urls[776]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fpaper-fold.html&sa=D&sntz=1&usg=AOvVaw3Vb2W6n00e7xFF-_L99t21"
+images[776]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Yr7T2k45hrkiT6ogLgipCFMdt6WCGM1f3LuHYvzYoaQXQjfYSjekxMznd0AqEolOlaV-akx5KkZMR0OqyqHhXRYt-jj8BvhTAB768STaxBmw79mtj1YKzdSkzCxhRCPi9ftINDqMImbbLzTZKYrljYEHONCOLpfoldJAH0HaGLmVZJrPaopAVj5iiWeY/s460/paper-fold.webp"
 
-urls[777]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fcandy-riddles.html&sa=D&sntz=1&usg=AOvVaw2QQmOwIFe57LHSx7pOsbhr"
-images[777]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgppXqZf4DxST02AQ4ZcAfXm1vUHmKBBTnd3aH2fT-Exw6-AW1D8BZQSmIDP5bHt-2ozk43vY8GJVDjTvyfv3UrVqZk4am9bmHP8AabUdvs3BwEl4BtNF05P3z1NyTMWN077NOuQ12xw3qcIOSNn8Fh8EssBmUMSvROrxPVvy0E521-mV6zXEOg0QRpQzDy/s512/candy-riddles.jpeg"
+urls[777]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fkings-and-queens-solitaire-tripeaks.html&sa=D&sntz=1&usg=AOvVaw3ZdZgTxVW40kyOhIZQz-n3"
+images[777]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ZIr5Xg_lv04EX7GhTrydOf-PvsfOispxaMPcCj5rp22KRmPf_DDNaL3qA_pj3t6klpOx2TYuLHHJYdkXIo5SK4b3jiy4LzvKj1mafsh_3SXYhOL1YM88MmDBo9BZWTifthxI8e3T5Wp-9hNzPAwk9HembHbEKmAhA-tuum97Hgs1dHjE-tFI2A5xgh8v/s512/kings-and-queens-solitaire-tripeaks.jpeg"
 
-urls[778]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fpaper-fold.html&sa=D&sntz=1&usg=AOvVaw3Vb2W6n00e7xFF-_L99t21"
-images[778]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Yr7T2k45hrkiT6ogLgipCFMdt6WCGM1f3LuHYvzYoaQXQjfYSjekxMznd0AqEolOlaV-akx5KkZMR0OqyqHhXRYt-jj8BvhTAB768STaxBmw79mtj1YKzdSkzCxhRCPi9ftINDqMImbbLzTZKYrljYEHONCOLpfoldJAH0HaGLmVZJrPaopAVj5iiWeY/s460/paper-fold.webp"
+urls[778]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fstick-fighter-3d.html&sa=D&sntz=1&usg=AOvVaw3sO0ZzdLsZ_GSzOmLRerl2"
+images[778]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXH9hrV6BIRzY7sqxb9FwA9Ma2fisLFwc-k0t92tlsQWSYP8XIbBlg8P_Zz6ZbQHlBID-27Xfhls-gVxcfpE2Jc9QJkwgTfHEh6HSAeWt5LE9MWLPDnpU6KS4858o3wC0IIxZDEuhckxupGZeHJJMrEbOVsH-Mr5fGtkWWi15n7aWjtP2hG3510LXxGW_m/s512/stick-fighter-3d.jpg"
 
-urls[779]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fkings-and-queens-solitaire-tripeaks.html&sa=D&sntz=1&usg=AOvVaw3ZdZgTxVW40kyOhIZQz-n3"
-images[779]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ZIr5Xg_lv04EX7GhTrydOf-PvsfOispxaMPcCj5rp22KRmPf_DDNaL3qA_pj3t6klpOx2TYuLHHJYdkXIo5SK4b3jiy4LzvKj1mafsh_3SXYhOL1YM88MmDBo9BZWTifthxI8e3T5Wp-9hNzPAwk9HembHbEKmAhA-tuum97Hgs1dHjE-tFI2A5xgh8v/s512/kings-and-queens-solitaire-tripeaks.jpeg"
+urls[779]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fhydro-storm-2.html&sa=D&sntz=1&usg=AOvVaw0_RZPJU3OjB_kEqmVc5s8m"
+images[779]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2t002mds1jzdvmrQzYmzIWy79i1tYL9fIJYZ-T0VNMNhuXtAZsCavQKZkBfpJY2bBNYxpHeUuI5Ku5CEmgwh5dHVUYFc11VwIfkSxq0eVaRTvqyDWqMIwWU3RLJwSNW-bu-h7oPKmTK7TKUKEgtDLNa4Khc1PJ0GcU4UoQcJybGZGMis_X7_pGZF55ji/s512/hydro-storm-2.jpeg"
 
-urls[780]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fstick-fighter-3d.html&sa=D&sntz=1&usg=AOvVaw3sO0ZzdLsZ_GSzOmLRerl2"
-images[780]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXH9hrV6BIRzY7sqxb9FwA9Ma2fisLFwc-k0t92tlsQWSYP8XIbBlg8P_Zz6ZbQHlBID-27Xfhls-gVxcfpE2Jc9QJkwgTfHEh6HSAeWt5LE9MWLPDnpU6KS4858o3wC0IIxZDEuhckxupGZeHJJMrEbOVsH-Mr5fGtkWWi15n7aWjtP2hG3510LXxGW_m/s512/stick-fighter-3d.jpg"
-
-urls[781]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fsugar-heroes.html&sa=D&sntz=1&usg=AOvVaw0eOckd98A-6UwCmU8yPmfp"
-images[781]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ2DZovbGSupXqcfLMU8E3fVscScg-9nv12ansgvnFV7Om8Sdh0Lbz3-t9NQeKl3uwE6wbVeYTBwatFMg4nDzuqJnTipUfcCdj9Dsz1LVDMEK7z6c3vhafF3LWx_2UP3LphiDVuzrUoWXM_1Fs0w_VSnnj9hKDw7gW6QePzFh-0ZehYM6OPIfao3SSEq0a/s512/sugar-heroes.jpeg"
-
-urls[782]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fhydro-storm-2.html&sa=D&sntz=1&usg=AOvVaw0_RZPJU3OjB_kEqmVc5s8m"
-images[782]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2t002mds1jzdvmrQzYmzIWy79i1tYL9fIJYZ-T0VNMNhuXtAZsCavQKZkBfpJY2bBNYxpHeUuI5Ku5CEmgwh5dHVUYFc11VwIfkSxq0eVaRTvqyDWqMIwWU3RLJwSNW-bu-h7oPKmTK7TKUKEgtDLNa4Khc1PJ0GcU4UoQcJybGZGMis_X7_pGZF55ji/s512/hydro-storm-2.jpeg"
-
-urls[783]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fkitty-scramble.html&sa=D&sntz=1&usg=AOvVaw0z-HTMTTE9ZUdwq4fBNAXE"
-images[783]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCd4AsISEfSOFC5q_z2x3OOxCXby0NmeAeIFw2Ue-piiEkJYfL4-7SHY1-Hr7wMCq6RNAUso5OicQ-L-q8_cOmpnJRtzwjQS9wXNUHaELZMvK3n6JG2zT-HEinD0FmztEhNPgw2_kkdHg84AZ0GvWXHae1jD1dOMXggH7VwL0mq60ZVN7IYr98gejTGWYT/s512/kitty-scramble.jpeg"
-
-urls[784]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fhelicopter-black-ops-3d.html&sa=D&sntz=1&usg=AOvVaw1lOVJaJ0_6_tIAnNU7oDAr"
-images[784]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ9JYSOItiD-Y0ba7xgw4zsqZYzKxg8yuNxk4NgJpLMdvN-B6zo2XkFO2PVOgpXI6ulVJ1vgsP4AnuHa5hkhm2A9yO8WChcZHVEQ_9ISgTz75JZYbKrn4wa5nIkufaNrZycgbIxM7D8SgLzTF_iMzzyPNQr8z5DodLVrji1jyodCAhdVmkKYnrJ5Z5DxnJ/s512/helicopter-black-ops-3d.jpeg"
-
-urls[785]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fword-sauce.html&sa=D&sntz=1&usg=AOvVaw2P-JegA-viraeBoZpisQ3K"
-images[785]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3nuO_7qjHZkyCXY3mMW7-QdUqoowdcwR5rAqjDWuDTe5XSLmBF-fsdqo5fh-ClisLnvtwmn01Fio858EM9owK_LZpCTI-zebQ2WZg4K__SDpmsaI4lwlLuDONXuPCWuHMCW-qCzzBsOdRk_kHyXHfdZDOJTkKlUtYRb1sCodF_uAKxh--PMPNSM-RD_qL/s512/word-sauce.jpeg"
-
-urls[786]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Ftank-battle.html&sa=D&sntz=1&usg=AOvVaw3r78IES7xbaPh4bbZoADr3"
-images[786]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiokwrvqKv4VgM-DCC29tKfmKKoljULOLeQMxj0ntJ_QHCA6rAGBXTnGJ0bR6aNRXDd-roaRzcOe4DdmaWQj3nwJXpLQ17o8vPxo7zSmofP6Hf_A3BEnl0XZG-bMvgh2SOR_c8MynDhqhkn8POIsFfRvlx7AD2AWBtuOhrFjVnk2Lyu79iX490-FLLRH3za/s512/tank-battle.jpeg"
-
-urls[787]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fcrocword.html&sa=D&sntz=1&usg=AOvVaw0lUG1ard2an8lJScqNXv2_"
-images[787]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG7x63WEeRknQGW8nMVGcTC1cWkwqgPYYL0geEXvumNDeQB_qLIG0Bhx7cNoKpqUQRe9XTvImPkTagfwjuyMR7U7Q-2ZAFthz3kEKS_U0w__-3veoHOD5d-MlAOrlC2AgCl0P_4Rnlh3REVBJRrnU_0TTPSZ62sT7VpgB5yqZ1tvs07Fvl4Vt4dksgzbun/s512/crocword.jpeg"
-
-urls[788]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fdark-world.html&sa=D&sntz=1&usg=AOvVaw1dcjie_-H5ImbzNtxPJyKM"
-images[788]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDhrmFH8Qhd0HFScrTYghK9jrRUKLzQf3nRJ3LHDwDD3hmDOp4f9uteZSJCOil4RLM6DZ_gtWfgpLCh4n4N8Mi_VQII_e9cHd_1I7KcRj0Nr0dDQy9nxNg76dPo7Gw3KLDPftyYCGLFtWiXnOAHwiyO8iJIc5st7x3ZHxfF4FrsKC6YEtdUy_pWbPWphpH/s160/dark-world.webp"
-
-urls[789]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fcrossword-online.html&sa=D&sntz=1&usg=AOvVaw2fupK6uyJqOLB1sGQec-rN"
-images[789]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxijmEjt9RxAoXNIYeOuJMi1QhonvY59WsVyNy3ETrKUxW9mVjoPPtXRzx5pXDoPOsv46munikqRComf7n9aUFviXJIu8caLgV2LYPZsQAH8mwvvJ9y099vXtSuxIGajGbQCIbjnthKRbXgzHMwsA7OkCiZBEgwfR2l2ciPjw8LGieoOAVzbtgFcXgMBWr/s512/crossword.png"
+urls[780]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F2023%2F09%2Fhelicopter-black-ops-3d.html&sa=D&sntz=1&usg=AOvVaw1lOVJaJ0_6_tIAnNU7oDAr"
+images[780]="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ9JYSOItiD-Y0ba7xgw4zsqZYzKxg8yuNxk4NgJpLMdvN-B6zo2XkFO2PVOgpXI6ulVJ1vgsP4AnuHa5hkhm2A9yO8WChcZHVEQ_9ISgTz75JZYbKrn4wa5nIkufaNrZycgbIxM7D8SgLzTF_iMzzyPNQr8z5DodLVrji1jyodCAhdVmkKYnrJ5Z5DxnJ/s512/helicopter-black-ops-3d.jpeg"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
