@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=793
+var totallinks=789
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
